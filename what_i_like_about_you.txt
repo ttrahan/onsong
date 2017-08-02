@@ -1,8 +1,8 @@
 What I Like About You
-The Romantics
+The Romantics (Poison’s version)
 Key: E
 Tempo: 166
-Flow: I V1 C1 V2 C2 B V3 C3 O
+Flow: I V1 C1 V2 C2 B S V3 C3 O
 
 Intro:
 [E]   [A]   [D]   [A]
@@ -11,7 +11,7 @@ Intro:
 [E]    [A][D][A]  uh-uh 
 [E]huh [A][D][A]  
 [E]Hey![A][D][A]  uh-uh  
-[E]huh, [A][D][A]that’s what I like about
+[E]huh, [A][D][A]That’s what I like about
 
 Verse 1:
 [E]you,         [A]       [D]           [A]you hold me 
@@ -20,7 +20,7 @@ Verse 1:
 [E]night,        [A]            [D]yeah       [A]   
 
 Chorus 1:
-[E]Keep on [A]whispering [D]in my [A]ear
+[E]You're [A]whispering [D]in my [A]ear
 [E]Tell me all the [A]things that [D]I wanna [A]hear, 'cause that's 
 [E]true   [A]    [D] That's what I [A]like about 
 [E]you    [A]    [D]What I [A]like about
@@ -32,7 +32,7 @@ Verse 2:
 [E]mance,[A]     [D]yeah  [A]
 
 Chorus 2:
-[E]Keep on [A]whispering [D]in my [A]ear
+[E]Your’e [A]whispering [D]in my [A]ear
 [E]Tell me all the [A]things that [D]I wanna to [A]hear, 'cause that's 
 [E]true   [A]    [D] That's what I [A]like about 
 [E]you    [A]    [D] That's what I [A]like about 
@@ -42,17 +42,17 @@ Chorus 2:
 
 Bridge:
 [G]   [D]   [G]   [A]   [D] [A] [D] [A] [B]
+Hey!
 
-Hey! 
+Solo:
 [E]   [A]   [D]   [A]
 (4x)
-
 That’s what I like about…
 
 Verse 3:
 [E]you,  [A]     [D] you keep me [A]warm at 
 [E]night [A]     [D]     [A]    
-[E]Never wanna' [A]let you go, [D]know you make me [A]feel al-
+[E]I Never wanna' [A]let you go, [D]know you make me [A]feel al-
 [E]right,[A]     [D]     [A]yeah    
 
 Chorus 3:
@@ -68,9 +68,9 @@ Chorus 3:
 [E]you    [A]    [D] That's what I [A]like about (whispered)
 
 Outro:
+Hey!
 [E] [A] [D] [A]
 [E]Hey, [A] [D] [A]  uh-uh
-[E]huh, hey hey [A] [D] [A]
-[E]hey hey  [A]  [D] Hey, uh huh hu[A]h, brrr    
-[E]         [A]  [D] Hey, uh huh hu[A]h, hey     
-[E]         [A]       [D]      [A][E]
+[E]Hey, [A] [D] [A]  uh-uh
+[E]Hey, [A] [D] [A]  uh-uh, brrr      
+[E]         [A]       [D]      [A][E]HEY!

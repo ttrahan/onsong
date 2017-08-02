@@ -1,54 +1,62 @@
-Rock and Roll All Nite
+Rock and Roll All Nite (Alive! Version)
 KISS
-Key:
-Tempo:
-Flow: I V1 B C1 V2 B C2
+Key: A
+Flow: I V1 B C V2 B C S B CE E
 
+(Original recording is tuned to Eb)
 
 Intro:
-(come in on the down beat of the 1)
-[G] [G] [D] [G] [G] [D] (can cheat with Dadd4 for G)
+(Drums Start)
+[G] [G] [D] [G] [G] [D]
+[A][E][A][E]
 
 
 Verse 1:
 [A]You show us every[E]thing you've got
 [A]You keep on dancin' and the [E]room gets hot
 [D]You drive us [E]wild, we'll drive you crazy
+[G] [D] [G] [G] [D]
 [A]You say you wanna [E]go for a spin
 [A]The party's just begun, we'll [E]let you in
-[D]You drive us [E]wild, we'll drive you [G]crazy [G] [D] [G] [G] [D]
+[D]You drive us [E]wild, we'll drive you crazy [G] [D] [G] [G] [D]
 
 
 
 Bridge:
-[F#]You keep on shoutin', [G]you keep on shoutin'
+[F]You keep on shoutin', [G]you keep on shoutin'
 
 
-Chorus 1:
-(play blues rhythm)
+Chorus:
 [A]I wanna rock and roll all night [D]and party [E]every day
 [A]I wanna rock and roll all night [D]and party [E]every day
+[A]I wanna rock and roll all night and party every day (Drums only)
+I wanna rock and roll all night and party every day (Drums only)
+[G] [D] [G] [G] [D]
 
 
 Verse 2:
 [A]You keep on saying you'll be [E]mine for a while
 [A]You're lookin' fancy and I [E]like your style
 [D]You drive us [E]wild, we'll drive you crazy
+[G] [D] [G] [G] [D]
 [A]You show us everything you've got
 [A]Baby, baby that's quite a lot
-[D]And you drive us wild, we'll drive you [G]crazy [G] [D] [G] [G] [D]
+[D]And you drive us wild, we'll drive you crazy [G] [D] [G] [G] [D]
 
 
-Chorus 2:
+Solo:
+(Same chord pattern as the Verse)
+
+
+Chorus End:
 [A]I wanna rock and roll all night [D]and party [E]every day
 [A]I wanna rock and roll all night [D]and party [E]every day
-[A]I wanna rock and roll all night [D]and party [E]every day
-[A]I wanna rock and roll all night [D]and party [E]every day
-[A]I wanna rock and roll all night [D]and party [E]every day
-[A]I wanna rock and roll all night [D]and party [E]every day
-[A]I wanna rock and roll all night [D]and party [E]every day
-[A]I wanna rock and roll all night [D]and party [E]every day
-[A]I wanna rock and roll all night [D]and party [E]every day
-[A]I wanna rock and roll all night [D]and party [E]every day
-[A]I wanna rock and roll all night [D]and party [E]every day
-[A]I wanna rock and roll all night [D]and party [E]every day
+[A]I wanna rock and roll all night and party every day (Drums only)
+I wanna rock and roll all night and party every day (Drums only)
+[G] [D] [G] [G] [D]
+[F] [G]
+
+
+End:
+[E][A]
+
