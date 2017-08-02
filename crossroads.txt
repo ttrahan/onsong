@@ -2,7 +2,7 @@ Crossroads
 Eric Clapton
 Key: A
 Tempo: 93
-Flow: I V1 V2 V3 V4
+Flow: I V1 V2 S V3 S V4
 
 12-bar blues w/ quick change
 
@@ -29,6 +29,9 @@ Nobody seemed to know me,
 Everybody passed me by.
 
 
+Solo:
+
+
 Verse 3:
 I'm going down to Rosedale,
 Take my rider by my side.
@@ -36,6 +39,9 @@ I'm going down to Rosedale,
 Take my rider by my side.
 You can still barrelhouse, baby,
 On the riverside.
+
+
+Solo:
 
 
 Verse 4:

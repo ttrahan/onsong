@@ -29,7 +29,7 @@ I'm [B]looking for a compli[F#m]cation
 
 
 Instrumental:
-[B]  [F#m]  [E]
+...  [F#m]  [E]
 [B]  [F#m]  [E]
 
 
@@ -49,6 +49,7 @@ Now I'm [B]looking to the sky to [F#m]save me
 I'm [B]looking for a compli[F#m]cation
 [E]Looking 'cause I'm tired of trying
 [G]Make my way back [A]home when I learn to [B]fly high.
+[G]Make my way back [A]home when I learn to 
 
 
 Interlude:

@@ -41,7 +41,9 @@ Chorus 2:
 [E]you    [A]    [D]    [A]Wahh!
 
 Bridge:
-[G]   [D]   [G]   [A]   [D] [A] [D] [A] [B]
+[G]   [D]   [G]   [A]   
+[D]   [A]   [D]   [A]   
+[B]   [B]   [B]   [B]
 Hey!
 
 Solo:
