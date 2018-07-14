@@ -41,6 +41,7 @@ Chorus 1:
 You gotta fight [D][D]  for your right [D][D]  to party
 [A]  [C]  [D]
 [A]  [C]  [D]
+[A]  [C]  [D]
 [A]      [C]      ([E]sin[G]gle [E]notes)
 
 
@@ -60,7 +61,8 @@ Chorus 2:
 You gotta fight [D][D]  for your right [D][D]  to party
 [A]  [C]  [D]
 [A]  [C]  [D]
-[A]      [C]      ([E]sin[G]gle [E]notes)
+[A]  [C]  [D]
+[A]  [C]  [D]
 
 
 Interlude 1:
@@ -69,11 +71,14 @@ Interlude 1:
 
 (all)
 You gotta fight
-[A]  [C]  [D]
-[A]      [C]      ([E]sin[G]gle [E]notes)
 
 
 Solo:
+(8 times through riff)
+[A]  [C]  [D]
+[A]  [C]  [D]
+[A]  [C]  [D]
+[A]  [C]  [D]
 [A]  [C]  [D]
 [A]  [C]  [D]
 [A]  [C]  [D]
@@ -96,14 +101,16 @@ Chorus 3:
 You gotta fight [D][D]  for your right [D][D]  to party
 [A]  [C]  [D]
 [A]  [C]  [D]
-[A]      [C]      ([E]sin[G]gle [E]notes)
+[A]  [C]  [D]
+[A]  [C]  [D]
 
 
 (all)
 You gotta fight [D][D]  for your right [D][D]  to party
 [A]  [C]  [D]
 [A]  [C]  [D]
-[A]      [C]      ([E]sin[G]gle [E]notes)
+[A]  [C]  [D]
+[A]  [C]  [D]
 
 
 Interlude 2:
@@ -115,10 +122,10 @@ Interlude 2:
 [A]Paaaaaa-  [C]aaaaaaa-  [D]aaaaaaa-
 [A]-aaaaaaa  [C]aaaaaaa-  [D]aaaaaaa-
 [A]tay  [C]  [D]
-[A]      [C]      ([E]sin[G]gle [E]notes)
+[A]  [C]  [D]
 
 [A]Paaaaaa-  [C]aaaaaaa-  [D]aaaaaaa-
 [A]-aaaaaaa  [C]aaaaaaa-  [D]aaaaaaa-
 [A]tay  [C]  [D]
-[A]      [C]      ([E]sin[G]gle [E]notes)
+[A]      [C]      ([E]sin[G]gle [E]notes) [A]
 
