@@ -4,7 +4,8 @@ Key: C
 Tempo: 155
 
 Intro:  
-[C]   [F]   [C]   [F]
+[C]   [F]   
+[C]   [F]
 
 
 Verse 1:

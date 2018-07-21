@@ -2,7 +2,6 @@ Just What I Needed
 The Cars
 Key: E
 Tempo: 127
-Flow: I V1 PV V2 C S V1 C C O
 
 
 Intro:
@@ -39,7 +38,7 @@ Verse 2:
 [G#m] And talkin' in your [A] sleep
 
 
-Chorus:
+Chorus 1:
 [E]    [B]    I guess, [A] you're just what I [C#m] needed[B]  
 [E]    [B]    I [A] needed someone to [C#m] feed
 [E]    [B]    I guess, [A] you're just what I [C#m] needed[B]  
@@ -50,6 +49,32 @@ Solo:
 [E]  [B]  [C#m]  [A]
 [E]  [B]  [C#m]  [G#m]
 [E]  [B]  [C#m]  [A]
+
+
+Verse 3:
+[E] I don't mind you [B] comin' here
+[C#m] And wastin' all my [G#m] time
+[E] 'Cause when you're standin', [B] oh so near
+[C#m] I kinda lose my [G#m] mind
+
+[E] It's not the perfume [B] that you wear
+[C#m] It's not the ribbons [G#m] in your hair
+[E] And I don't mind you [B] comin' here
+[G#m] And wastin' all my [A] time
+
+
+Chorus 2:
+[E]    [B]    I guess, [A] you're just what I [C#m] needed[B]  
+[E]    [B]    I [A] needed someone to [C#m] feed
+[E]    [B]    I guess, [A] you're just what I [C#m] needed[B]  
+[E]    [B]    I [A] needed someone to [C#m] bleed
+
+(pause)
+
+[E]    [B]    I guess, [A] you're just what I [C#m] needed[B]  
+[E]    [B]    I [A] needed someone to [C#m] feed
+[E]    [B]    I guess, [A] you're just what I [C#m] needed[B]  
+[E]    [B]    I [A] needed someone to [C#m] bleed
 
 
 Outro:
@@ -63,5 +88,3 @@ Yeah, yeah, so [C#m]feed me
 [E]  [B]  [C#m]  [A]You're just what I needed
 [E]Yeah,  [B]yeah, [C#m]yeah,yeah  [G#m]
 [E]  [B]  [C#m]  
-
-

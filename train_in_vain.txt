@@ -4,6 +4,13 @@ Key: D
 Tempo: 123 
 
 
+Intro:
+[D]  [A]  [A]
+[D]  [A]  [A]
+[D]  [A]  [A]
+[D]  [A]  [A]
+
+
 Verse 1:
 You say you stand[D]  [A]  [A]  
 By your man[D]  [A]  [A]
