@@ -5,6 +5,7 @@ Tempo: 130
 Flow: I V1 C V2 C S C3
 
 Intro:
+(everyone in together)
 [D] [A] [G] [D]
 
 Verse 1:

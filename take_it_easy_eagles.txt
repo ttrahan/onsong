@@ -5,8 +5,13 @@ Tempo: 120
 Flow: I V1 C1 V2 C2 S V3 C3 O
 
 Intro:
+(guitars + bass only)
 [C][  ][Cadd9][  ][D]
 [C][  ][Cadd9][  ][D]
+
+(all in)
+[G]
+(riff)
 
 Verse 1:
 Well I'm a [G]runnin’ down the road tryin' to loosen my load
