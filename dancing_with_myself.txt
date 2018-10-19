@@ -68,12 +68,20 @@ Oh-oh-[E]oh
 Oh-oh-[B]oh
 
 Solo:
-[B]   [E]   
-[B]   [E]   
-[B]   [E]   
-[B]   [E]   
+[E]  [A]  [B]   [E]   
+[E]  [A]  [B]   [E]   
+[E]  [A]  [B]   [E]   
+[E]  [A]  [B]   [E]   
 
-[E]   [E] 
+[A]   [A] 
+
+(bass part)
+[B]  [E]
+[B]  [E]
+[B]  [E]
+[B]  [E]
+
+[B]  [B]
 
 
 Verse 5:
