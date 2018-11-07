@@ -1,6 +1,7 @@
 Lola
 Kinks
 Key: E
+Tempo: 152
 
 
 Intro:
@@ -27,7 +28,6 @@ L-O-L-A, [A]Lola, [D]  Lo lo lo lo [C]Lola
 
 
 Verse 2:
-     E
 Well [E]I'm not the world's most physical guy
 but when she [A]squeezed me tight she nearly [D]broke my spine, oh my [E]Lola
 Lo lo lo lo [A]Lola    [Asus4]    [A]

@@ -1,6 +1,7 @@
 Don't Go Back To Rockville
 R.E.M.
 Key: E
+Tempo: 151
 
 
 Intro:
@@ -8,95 +9,63 @@ Intro:
 [E][  ][E]
 
 
-[Verse 1] 
-E
-Looking at your watch a third time 
-E                               A   Asus   A  Asus
-waiting in the station for the bus 
-E
-Going to a place that's far, 
-E                               A   Asus   A  Asus
-so far away and if that's not enough 
-B            A      G#m    C#m
-Going where nobody says hello, 
-C#m                   Bm          A
-they don't talk to anybody they don't know 
-E
-You'll wind up in some factory 
-E                               A   Asus   A  Asus
-that's full time filth and nowhere left to go 
-E
-Walk home to an empty house, 
-E                               A   Asus   A  Asus
-sit around all by yourself 
-B                     A           G#m  C#m
-I know it might sound strange but I believe 
-C#m                   Bm          A
-You'll be coming back before too long 
- 
-[Chorus] 
-E                F#m    B
-Dont go back to Rockville, 
-E                F#m  B
-dont go back to Rockville, 
-E                F#m   B
-dont go back to Rockville 
-A
-And waste another year 
- 
-[Verse 2] 
-E
-At night I drink myself to sleep and pretend 
-E                               A   Asus   A  Asus
-I don't care that you're not here with me 
-E
-'Cause it's so much easier to handle 
-E                               A   Asus   A  Asus
-All my problems if I'm too far out to sea 
-B            A      G#m    C#m
-But something better happen soon 
-C#m                          Bm          A
-Or it's gonna be too late to bring me back 
- 
-[Chorus] 
+Verse 1: 
+[E]Looking at your watch a third time 
+[E]Waiting in the station for the [A]bus  [Asus]  [A]  [Asus]
+[E]Going to a place that's far, 
+[E]So far away and if that's not [A]enough  [Asus]  [A]  [Asus]
+[B]Going where no[A]body [G#m]says hel[C#m]lo, 
+[C#m]They don't talk to anybody [Bm]they don't [A]know 
 
-E                F#m    B
-Dont go back to Rockville, 
-E                F#m  B
-dont go back to Rockville, 
-E                F#m   B
-dont go back to Rockville 
-A
-And waste another year 
+
+Verse 2:
+[E]You'll wind up in some factory 
+[E]that's full time filth and nowhere left to [A]go  [Asus]  [A]  [Asus]
+[E]Walk home to an empty house, 
+[E]sit around all by your[A]self  [Asus]  [A]  [Asus]
+[B]I know it might sound [A]strange [G#m]but I be[C#m]lieve 
+[C#m]You'll be coming back be[Bm]fore too [A]long 
  
-[Bridge] 
-E                           A    B    A   B
-It's not as though I really need you 
-E                          A    B    A  B
-If you were here I'd only bleed you 
-F#m      C#m          F#m       C#m                A
-But everybody else in town only wants to bring you down and 
-           A               B
-That's not how it ought to be [HARD BREAK]
-            B              A            G#m    C#m
-Well I know it might sound strange but I believe 
-C#m                   Bm          A
-You'll be coming back before too long 
+
+Chorus 1:
+[E]Dont go back to [F#m]Rockville  [B] 
+[E]Dont go back to [F#m]Rockville  [B] 
+[E]Dont go back to [F#m]Rockville  [B] 
+[A]And waste another year 
  
-[Chorus] 
-E                F#m    B
-Dont go back to Rockville 
-E                F#m  B
-dont go back to Rockville 
-E                F#m   B
-dont go back to Rockville 
-A
-And waste another year 
-E                F#m    B
-Dont go back to Rockville 
-E                F#m  B
-dont go back to Rockville 
-E                F#m   B
-dont go back to Rockville 
-A
-And waste another year
+
+Verse 3: 
+[E]At night I drink myself to sleep and pretend 
+[E]I don't care that you're not [A]here with me  [Asus]  [A]  [Asus]
+[E]'Cause it's so much easier to handle 
+[E]All my problems if I'm too far out to [A]sea  [Asus]  [A]  [Asus] 
+But [B]something better [A]happen [G#m]soon 
+Or it's [C#m]gonna be too late to [Bm]bring me [A]back 
+ 
+
+Chorus 2: 
+[E]Dont go back to [F#m]Rockville  [B] 
+[E]Dont go back to [F#m]Rockville  [B] 
+[E]Dont go back to [F#m]Rockville  [B] 
+[A]And waste another year 
+ 
+
+Bridge:
+[E]It's not as though I really [A]need [B]you   [A]    [B]
+[E]If you were here I'd only [A]bleed [B]you   [A]    [B] 
+[F#m] But every[C#m]body else in [F#m]town only [C#m]wants to bring you [A]down and 
+That's not [A]how it ought to [B]be [HARD BREAK]
+Well I [B]know it might sound [A]strange [G#m]but I be[C#m]lieve 
+[C#m]You'll be coming back be[Bm]fore too [A]long 
+
+ 
+Chorus 3:
+[E]Dont go back to [F#m]Rockville  [B] 
+[E]Dont go back to [F#m]Rockville  [B] 
+[E]Dont go back to [F#m]Rockville  [B] 
+[A]And waste another year 
+
+[E]Dont go back to [F#m]Rockville  [B] 
+[E]Dont go back to [F#m]Rockville  [B] 
+[E]Dont go back to [F#m]Rockville  [B] 
+[A]And waste another year 
