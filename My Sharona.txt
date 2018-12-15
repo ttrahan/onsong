@@ -5,143 +5,86 @@ Key: G
 Intro:
 (Drums 2x)
 (Drums + Bass 2x)
-(All In - 1x C-C-C-Bb)
- 
-G   G   CCCA#
-           
- 
-My  Sha-ro-na!
- 
-Verse 1:
+(All In - 1x C-C-C-A#)
 
-G
-                                                             
-Ooh My little pretty one, my pretty one,
-                            C   A#
-                                   
-When you gonna give me some time, Sharona?
-G
-                
-Ooh you make my motor run, my motor run.
-                        C   A#
-                                                                 
-Gun it coming off of the line, Sharona.
+[G]   [G]    [C][C][C][A#]
+ 
+
+Verse 1:
+[G]Ooh My little pretty one, my pretty one
+When you gonna give me some [C]time, [A#]Sharona
+[G]Ooh you make my motor run, my motor run
+Gun it coming off of the [C]line, [A#]Sharona
                                
  
 Chorus 1:
- 
-G
-     
-Never gonna stop, give it       up. Such a dirty mind.
-A#
-                                                               
-I always get it up, for the     touch of the younger kind.
-C            D#          F
-                                                                      
-My, my, my, ay-ay,                 whoo!
-G
-                                             
-M-m-m-          my Sharona,
+[G]Never gonna stop, give it up, such a dirty mind
+[A#]I always get it up, for the touch of the younger kind
+[C]My, my, [D#]my, ay-ay, [F]whoo!
+[G]M-m-m- my Sharona,
 
-G
-CCCA#
+[G]   [G]    [C][C][C][A#]
     
                                  
 Verse 2:
- 
-G
-                                                             
-Come a little closer, huh,         a-will ya huh,
-                               C   A#
-                                      
-Close enough to look in my eyes, Sharona.                 Ooh,
-G
-                
-Keeping it a mystery,          It gets to me.
-                               C   A#
-                                                                        
-Running down the length of my thigh, Sharona.
+[G]Come a little closer, huh, a-will ya huh
+Close enough to look in my [C]eyes, [A#]Sharona 
+Ooh, [G]Keeping it a mystery, it gets to me
+Running down the length of my [C]thigh, [A#]Sharona
 
  
 Chorus 2:
+[G]Never gonna stop, give it up, such a dirty mind
+[A#]I always get it up, for the touch of the younger kind
+[C]My, my, [D#]my, ay-ay, [F]whoo!
+[G]M-m-m- my Sharona
+[G]M-m-m- my Sharona
  
-G
-     
-Never gonna stop, give it       up. Such a dirty mind.
-A#
-                                                               
-I always get it up, for the     touch of the younger kind.
-C            D#          F
-                                                                      
-My, my, my, ay-ay,                 whoo!
-G
-                                             
-M-m-m-          my Sharona,
-G
-                                             
-M-m-m-          my Sharona,
- 
+
 Break:
-   
-Csus4C D#sus2D#FD#F
-            (4x)
-                                                           
-G   G         CCCA#
-                 (x2)
+[Csus4C] [D#sus2] [D#] [F] [D#] [F]  [G]
+[Csus4C] [D#sus2] [D#] [F] [D#] [F]  [G]
+[Csus4C] [D#sus2] [D#] [F] [D#] [F]  [G]
+[Csus4C] [D#sus2] [D#] [F] [D#] [F]  [D] 
+
+[G]   [G]    [C][C][C][A#]
+[G]   [G]    [C][C][C][A#]
  
  
 Verse 3:
-
-G
-                                                             
-When you gonna give to me,           g-give to me?
-                               C   A#
-                                      
-Is it just a matter of time, Sharona?
-G
-                
-Is it D-D-destiny,         D-destiny,
-                               C   A#
-                                                                        
-or is it just a game in my mind, Sharona?
+[G]When you gonna give to me, g-give to me
+Is it just a matter of [C]time, [A#]Sharona
+[G]Is it D-D-destiny, D-destiny
+Or is it just a game in my [C]mind, [A#]Sharona
   
  
 Chorus 3:
- 
-G
-     
-Never gonna stop, give it       up. Such a dirty mind.
-A#
-                                                               
-I always get it up, for the     touch of the younger kind.
-C            D#          F    G
-                                                                      
-My, my, my, ay-ay,                 whoo!
-C            D#          F    G
-                                                                      
-M-m-m-m My, my, my, ay-ay,                 whoo!
-G
-                                             
-M-m-m-          my Sharona,
-G
-                                             
-M-m-m-          my Sharona,
-G
-                                             
-M-m-m-          my Sharona,
-G
-                                             
-M-m-m-          my Sharona,
- 
-Solo:
+[G]Never gonna stop, give it up, such a dirty mind
+[A#]I always get it up, for the touch of the younger kind
+[C]My, my, [D#]my, ay-ay, [F]whoo!
+[G]m-m-m-m-m-m  [C]My, my, [D#]my, ay-ay, [F]whoo!
 
-CGFG
-    (x12)
-D
+[G]M-m-m- my Sharona
+[G]M-m-m- my Sharona
+[G]M-m-m- my Sharona
+[G]M-m-m- my Sharona
+
+
+Solo:
+(guitars - no bass 2 bars)
+
+[C][G][F][G]  (x12)
+
+[D]
  
 
 Outro:
- 
-G        G         CCCA#
+(hard stop) 
+[G]   [G]    [C][C][C][A#]
+[G]   [G]    [C][C][C][A#]
+[G]   [G]    [C][C][C][A#]
+[G]   [G]    [C][C][C][A#]
                       
-Ooh, my Sharona (x3)
+[G]   [G]Ooooh [C]My Sharona [C][C][A#]
+[G]   [G]Ooooh [C]My Sharona [C][C][A#]
+[G]   [G]Ooooh [C]My Sharona [C][C][A#]
