@@ -14,12 +14,12 @@ Intro:
 Verse 1:
 [G]Walking from the bus stop [C][D]
 [G]Couldn't wait to get off [C][D]
-I [G]know I am the lucky one [C][D] 
+I [G]know I am the lucky [C]one [D] 
 [Em][D][C][D]
 
 [G]Walking through the twilight [C][D]
 [G]Cold Nevada twilight [C][D]
-I [G]know I am the lucky one [C][D] 
+I [G]know I am the lucky [C]one [D] 
 [Em][D][C][D]
 
 
@@ -34,12 +34,12 @@ I'm the [C]one, I'm the [D]one [C][  ][D]
 Verse 2:
 [G]Standing on the corner [C][D]
 If [G]I could find a dollar [C][D]
-I [G]know I'd be the lucky one [C][D]
+I [G]know I'd be the lucky [C]one [D]
 [Em][D][C][D]
 
 [G]Standing in the last light [C][D]
 [G]Artificial daylight [C][D]
-I [G]know I am the lucky one [C][D] 
+I [G]know I am the lucky [C]one [D] 
 [Em][D][C][D]
 
 
@@ -67,6 +67,6 @@ Instrumental:
 Outro:
 [G]Walking to the bus stop [C][D]
 [C]Couldn't wait to get off [C][D]
-I [G]know I am the lucky one [C][D]
+I [G]know I am the lucky [C]one [D]
 [Em][   ][D][C][D]
 [G]
