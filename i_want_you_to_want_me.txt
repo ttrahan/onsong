@@ -7,8 +7,11 @@ Tempo: 93
 Intro:
 (drums only)
 (all in)
-[G][   ][F][C]{G}
-
+[G]
+[G]
+[F][C]
+[G]
+[G]
 
 Verse 1:
 I [G]want you to want me [D/F#]
@@ -67,6 +70,10 @@ See you [C]cryin' (cryin', cryin')
 
 
 Solo 1:
+[G]
+[D]
+[Em]
+[C]
 
 
 Chorus 3:
@@ -77,6 +84,10 @@ See you [C]cryin' (cryin', cryin')
 
 
 Solo 2:
+[G]
+[D]
+[Em]
+[C]
 
 
 Chorus 4:
@@ -95,4 +106,7 @@ I want you to want me
 
 (all back in)
 
-[G][   ][F][C]{G}
+[G]
+[G]
+[F][C]
+[G]................
