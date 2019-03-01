@@ -4,6 +4,10 @@ Key: Eb
 Tempo: 
 
 
+
+
+
+
 Verse 1:
 
 (vocals + guitar 1 only)
@@ -32,8 +36,8 @@ Or am I just [Eb]stoned
 
 
 Riff 1:
-[Eb][  ][Bb][  ][Cm][  [Bb]]
-[Eb][  ][Bb][  ][Cm][  [Bb]]
+[Eb][ ][Bb][ ][Cm][ ][Bb]
+[Eb][ ][Bb][ ][Cm][ ][Bb]
 
 
 Verse 2:
@@ -57,11 +61,11 @@ I [Eb]think I'm [Db]cracking [Cm]up
 Uh, yuh, yuh, [Eb]yuh
 
 
-Riff 1:
-[Eb][  ][Bb][  ][Cm][  [Bb]]
-[Eb][  ][Bb][  ][Cm][  [Bb]]
-[Eb][  ][Bb][  ][Cm][  [Bb]]
-[Eb][  ][Bb][  ][Cm][  [Bb]]
+Riff 2:
+[Eb][ ][Bb][ ][Cm][ ][Bb]
+[Eb][ ][Bb][ ][Cm][ ][Bb]
+[Eb][ ][Bb][ ][Cm][ ][Bb]
+[Eb][ ][Bb][ ][Cm][ ][Bb]
 
 
 Bridge:
@@ -70,6 +74,7 @@ So I better
 
 [Eb]hold [Bb]on[ ][Cm][ ][Gm]
 [Ab][ ][Eb][ ][Bb][ ][Bb]
+
 [Eb][ ][Bb][ ][Cm][ ][Gm]
 [Ab][ ][Eb][ ][Bb][ ][Bb]
 
