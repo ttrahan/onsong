@@ -12,8 +12,8 @@ I would swallow my [E]doubt, turn it inside [F#]out
 Find nothing but faith in nothing
 
 [A]I want to put my tender [E]heart in a blender
-[B]Watch it spin around to a [B]beautiful oblivion
-[A]  Rende[E]vous then I'm [F#]through now I'm through with
+[B]Watch it spin around to a beautiful oblivion
+[E]Rende[B]vous then I'm [F#]through now I'm through with
 
 
 VERSE 1:
@@ -66,14 +66,14 @@ BRIDGE:
 [B]ooooooh, [E]oooooh, [A]oooooh, [E]oooooh
 [B]ooooooh, [E]oooooh, [A]oooooh, [E]oooooh
 
-[B]I alone[E] am the one you [A]don't know
+[B/F#]I alone[E] am the one you [A]don't know
 you need, take [E]heed, feed your ego
-[B]Make me[E] blind when your eyes close, [A]sink
+[B/F#]Make me[E] blind when your eyes close, [A]sink
 When you get close, [E]tie me to the bedpost
 
-[B]I alone[E] am the one you [A]don't know
+[B/F#]I alone[E] am the one you [A]don't know
 you need, you [E]don't know you need me
-[B]Make me[E] blind when your eyes close,
+[B/F#]Make me[E] blind when your eyes close,
 [A]tie me to the [E]bedpost
 
 
@@ -85,12 +85,15 @@ Find nothing but faith in nothing
 
 [A]I want to put my tender [E]heart in a blender
 [B]Watch it spin around to a [B]beautiful oblivion
-[A]  Rende[E]vous then I'm [F#]through now I'm [F#]through with
+[A]  Rende[E]vous then I'm [F#]through
+Now I'm [F#]through with
 
 
 OUTRO:
 [B]You     [E]     [A]     [E] 
 [B]        [E]     [A]     [E]Through with 
 [B]you     [E]     [A]     [E] 
+
 [B]        [E]     [A]     [F#] 
+
 [E]Rende[B]vous then I'm [F#]through with you
