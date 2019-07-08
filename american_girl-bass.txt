@@ -14,7 +14,7 @@ out  -  (repeat vrs until end)
 int1 - int2 - int3
 vrs - pre - chr
 vrs - pre - chr
-int1 - int2 - int3 - out
+brg - out
 
 Verse 1:
 Well, she was an American girl
