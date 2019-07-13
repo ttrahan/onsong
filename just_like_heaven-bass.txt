@@ -1,0 +1,66 @@
+Just Like Heaven - bass
+The Cure
+Key: A
+Tempo: 151 
+
+int1 -  1 -5 2 4 (drums + bass only)
+int2 -  <: 1 -5 2 4 :> x2 (first guitar joins)
+int3 -  1 -5 2 4 (keys join(first guitar joins)
+int4 -  <: 1 -5 2 4 :> x4 (lead riff joins)
+vrs  -  <: 1 -5 2 4 :> x4
+rif  -  <: 1 -5 2 4 :> x2
+chr1  -  <: 6 7 :> x3  <: 4 :> x4  
+sol  -  <: 1 -5 2 4 :> x4
+chr2  -  <: 6 7 :> x3  4 
+
+int1 - int2 - int3 - int4
+vrs - rif - vrs 
+chr - sol - rif
+vrs - chr
+
+Verse 1:
+Show me, show me, show me how you do that trick
+The one that makes me scream, she said
+The one that makes me laugh, she said
+Threw her arms around my neck
+Show me how you do it
+And I'll promise you, I'll promise that 
+I'll run away with you   
+I'll run away with you   
+
+Verse 2:
+Spinning on that dizzy edge
+I kissed her face, I kissed her neck
+I dreamed of all the different ways
+I had to make her glow
+Why are you so far away
+She said, why won't you ever know
+That I'm in love with you    
+That I'm in love with you   
+
+Chorus 1:
+You, soft and only
+You, lost and only
+You, strange as angels
+Dancing in the deepest ocean
+Twisting in the water
+You're just like a dream    
+(keys solo)
+You're just like a dream   
+
+Verse 3:
+Daylight licked me into shape
+I must have been asleep for days
+And moving lips to breathe her name
+I opened up my eyes
+And found myself alone, alone
+Alone above a raging sea
+That stole the only girl I loved
+And drowned her deep inside of me
+
+Chorus 2:
+You, soft and only
+You, lost and only
+You, just like heaven
+
+
