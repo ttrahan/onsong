@@ -1,53 +1,91 @@
-Basket Case - bass
+Basket Case
 Green Day
 Key: Eb
 Tempo: 
 
-vrs  -  <: +1 5 6 3  4 +1 5 5 :> x2
-chr  -  <: 4 5 +1 +1 :> x2   4 5 (+1 7 ) 6    4 5
-rif1 -  <: +1 5 6 5 :> x2   
-rif2 -  <: +1 5 6 5 :> x4 
-brg  -  4 4 5 5  vrs
-out  -  <: +1 6 (4 +1) 5 :> x4   _ 4 +1 5
-
-vrs - chr - rif1
-vrs - chr - rif2
-brg - chr - out
-
 Verse 1:
+
 (vocals + guitar 1 only)
 
-Do you have the time, to listen to me whine
-About nothing and everything, all at once
+[Eb]Do you have the [Bb]time
+[Cm]To listen to me [Gm]whine
+[Ab]About nothing [Eb]and everything
+All [Bb]at once
 
-I am one of those, melodramatic fools
-Neurotic to the bone, no doubt about it
+[Eb]I am one of [Bb]those
+[Cm]Melodra[Gm]matic fools
+[Ab]Neurotic to [Eb]the bone 
+No doubt a[Bb]bout it
+
 
 Chorus 1:
-Sometimes I give myself the creeps
-Sometimes my mind plays tricks on me
-It all keeps adding up, (all in) I think I'm cracking up
-Am I just paranoid
+[Ab]Sometimes I [Bb]give myself [Eb]the creeps
+[Ab]Sometimes my [Bb]mind plays tricks [Eb]on me
+It [Ab]all keeps adding [Bb]up
+
+(all in)
+
+I [Eb]think I'm [Db]cracking [Cm]up
+[Ab]Am I just para[Bb]noid
+Or am I just [Eb]stoned
+
 
 Riff 1:
-Or am I just stoned
+[Eb][ ][Bb][ ][Cm][ ][Bb]
+[Eb][ ][Bb][ ][Cm][ ][Bb]
+
 
 Verse 2:
-I went to a shrink, to analyze my dreams
-She says it's lack of sex, that's bringing me down
+I [Eb]went to a [Bb]shrink
+To [Cm]analyze my [Gm]dreams
+She [Ab]says it's lack of [Eb]sex 
+That's bringing [Bb]me down
 
-I went to a whore, he said my life's a bore
-So quit my whining cuz, it's bringing her down
+I [Eb]went to a [Bb]whore
+He [Cm]said my life's a [Gm]bore
+So [Ab]quit my whining [Eb]cuz
+It's bringing [Bb]her down
+
 
 Chorus 2:
+[Ab]Sometimes I [Bb]give myself [Eb]the creeps
+[Ab]Sometimes my [Bb]mind plays tricks [Eb]on me
+It [Ab]all keeps adding [Bb]up
+I [Eb]think I'm [Db]cracking [Cm]up
+[Ab]Am I just para[Bb]noid
+Uh, yuh, yuh, [Eb]yuh
+
 
 Riff 2:
-Uh, yuh, yuh, yuh
+[Eb][ ][Bb][ ][Cm][ ][Bb]
+[Eb][ ][Bb][ ][Cm][ ][Bb]
+[Eb][ ][Bb][ ][Cm][ ][Bb]
+[Eb][ ][Bb][ ][Cm][ ][Bb]
+
 
 Bridge:
-Grasping to control, so I better hold on
+[Ab]Grasping to con[Bb]trol
+So I better 
+
+[Eb]hold [Bb]on[ ][Cm][ ][Gm]
+[Ab][ ][Eb][ ][Bb][ ][Bb]
+
+[Eb][ ][Bb][ ][Cm][ ][Gm]
+[Ab][ ][Eb][ ][Bb][ ][Bb]
+
 
 Chorus 3:
+[Ab]Sometimes I [Bb]give myself [Eb]the creeps
+[Ab]Sometimes my [Bb]mind plays tricks [Eb]on me
+It [Ab]all keeps adding [Bb]up
+I [Eb]think I'm [Db]cracking [Cm]up
+[Ab]Am I just para[Bb]noid
+Or am I just [Eb]stoned
+
 
 Outro:
-Or am I just stoned
+[Eb][ ][Cm][ ][Ab][ ][Eb][ ][Bb]
+[Eb][ ][Cm][ ][Ab][ ][Eb][ ][Bb]
+[Eb][ ][Cm][ ][Ab][ ][Eb][ ][Bb]
+[Eb][ ][Cm][ ][Ab][ ][Eb][ ][Bb]
+[Ab][ ][Eb][ ][Bb]
