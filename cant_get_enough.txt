@@ -3,9 +3,12 @@ Bad Company
 Key: C
 Tempo: 126
 
+
                         
 [intro]  
-C   Bb   F     Bb   F (2x)
+C   Bb   F     Bb   F
+C   Bb   F     Bb   F
+
 
   C             Bb         F 
 Well, I'll take whatever I want  
@@ -19,7 +22,8 @@ Now tell me I got something for you
 G   
 Come on, come on, come on and do it
 Bb              F       
-  Come on and uh, do what you do  D# C
+  Come on and uh, do what you do  
+Eb-E   Eb-E
 
 
 [Chorus]
@@ -29,8 +33,10 @@ I can't get enough of your love
 I can't get enough of your love
 I can't get enough of your love
 
+G   C   G
 
-[intro]  C   Bb   F     Bb   F 1x
+
+[intro]  C   Bb   F     Bb   F (1x)
 
 
 [Verse 2]    C             Bb         F
@@ -44,7 +50,8 @@ I can't get enough of your love
 G   
 Come on, come on, come on and do it
 Bb              F       
-  Come on and uh, do what you do  D# C
+  Come on and uh, do what you do  
+Eb-E   Eb-E
 
 
 [Chorus]
@@ -54,13 +61,36 @@ I can't get enough of your love
 I can't get enough of your love
 I can't get enough of your love
 
-[Solo]  |C Bb| |F| |C Bb| |F| 
-        |C Bb| |F| |C Bb| |F| 
-        |G| |G| |Bb| |F Eb|
-        |C| |F| |C| |F| |C| |F| |G| |G|
-        (chorus)|C| |F| |C| |F| |C| |F| |G| |G| 
-        (chorus)|C| |F| |C| |F| |C| |F| |G| |G| 
-        (chorus)|C| |F| |C| |F| |C| |F| |G| |G| 
-        (chorus)|C| |F| |C| |F| |C| |F| |G| |G| 
+G   C   G
+What'd I say now
 
+[Solo] 
+C   Bb   F 
+C   Bb   F 
+C   Bb   F 
+C   Bb   F 
+G   
+Bb  F    Eb-E   Eb-E
+C           F
+C           F
+C           F
+G   C   G
+
+C           F          
+I can't get enough of your love
+I can't get enough of your love
+I can't get enough of your love
+
+G   C   G
+
+C           F          
+I can't get enough of your love
+I can't get enough of your love
+I can't get enough of your love
+
+G   C   G
+
+(repeat as many times as we feel like)
+
+[Outro]
 C   Bb   F     Bb   F (2x)
