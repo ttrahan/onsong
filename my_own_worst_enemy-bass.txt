@@ -1,0 +1,55 @@
+My Own Worst Enemy - bass
+Lit
+Key: E
+Tempo: 176
+
+int -  <: 1 1 1 (1 5 4 .) :> x4
+vrs -  <: 1 1 1 (1 5 4 .) :> x4
+crs -  <: 1 2 4 5 :> x2  
+rif -  <: 1 1 1 (1 5 4 .) :> x2
+sol -  <: 1 5 4 :> x4
+out -  <: 1 1 1 (1 5 4 .) :> x2  <: 1 5 4 :> x2 
+
+int - vrs - crs - rif
+vrs - crs - sol - crs - out 
+
+VERSE 1:
+Can we forget about the things I said when I was drunk,
+I didn't mean to call you that. 
+I can't remember what was said or what you threw at me
+Please tell me, please tell me
+
+CHORUS 1:
+Whyyyyyyyyyyyyyyy
+My car is in the front yard, and I'm, sleeping with my clothes on,
+I came in through the window, last night,
+and you're, gone,   gone.
+
+RIFF:
+
+VERSE 2:
+It's no surprise to me I am my own worst enemy,
+'Cause every now and then I kick the living shit out of me
+The smoke alarm is going off and there's a cigarette,
+Still burning, please tell me 
+
+CHORUS 2:
+whyyyyyyyyyyyyyyy
+My car is in the front yard, and I'm, sleeping with my clothes on,
+I came in through the window, last night,
+and you're, gone,   gone.
+
+SOLO:
+Please tell me 
+
+CHORUS 3:
+Whyyyyyyyyyyyyyyy
+My car is in the front yard, and I'm, sleeping with my clothes on,
+I came in through the window, last night
+(ah oooooooh)
+
+OUTRO:
+It's no surprise to me I am my own worst enemy (ah oooooooh)
+'Cause every now and then I kick the living shit out of me (ah oooooooh)
+Can we forget about the things I said When I was drunk (ah oooooooh)
+I didn't mean to call you that

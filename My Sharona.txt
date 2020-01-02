@@ -8,8 +8,10 @@ Intro:
 (All In - 1x C-C-C-A#)
 
 [G]   [G]    [C][C][C][A#]
- 
-
+[G]   [G]    [C][C][C][A#]
+    
+  
+  
 Verse 1:
 [G]Ooh My little pretty one, my pretty one
 When you gonna give me some [C]time, [A#]Sharona
@@ -29,7 +31,7 @@ Chorus 1:
 Verse 2:
 [G]Come a little closer, huh, a-will ya huh
 Close enough to look in my [C]eyes, [A#]Sharona 
-Ooh, [G]Keeping it a mystery, it gets to me
+[G]Keeping it a mystery, it gets to me
 Running down the length of my [C]thigh, [A#]Sharona
 
  
@@ -42,10 +44,14 @@ Chorus 2:
  
 
 Break:
-[Csus4C] [D#sus2] [D#] [F] [D#] [F]  [G]
-[Csus4C] [D#sus2] [D#] [F] [D#] [F]  [G]
-[Csus4C] [D#sus2] [D#] [F] [D#] [F]  [G]
-[Csus4C] [D#sus2] [D#] [F] [D#] [F]  [D] 
+[Csus4C] [D#sus2] [D#] [F] [D#] [F]  
+[G]
+[Csus4C] [D#sus2] [D#] [F] [D#] [F]  
+[G]
+[Csus4C] [D#sus2] [D#] [F] [D#] [F]  
+[G]
+[Csus4C] [D#sus2] [D#] [F] [D#] [F]  
+[D] 
 
 [G]   [G]    [C][C][C][A#]
 [G]   [G]    [C][C][C][A#]
@@ -62,7 +68,8 @@ Chorus 3:
 [G]Never gonna stop, give it up, such a dirty mind
 [A#]I always get it up, for the touch of the younger kind
 [C]My, my, [D#]my, ay-ay, [F]whoo!
-[G]m-m-m-m-m-m  [C]My, my, [D#]my, ay-ay, [F]whoo!
+[G]      m-m-m-m-m-m-m  
+[C]My, my, [D#]my, ay-ay, [F]whoo!
 
 [G]M-m-m- my Sharona
 [G]M-m-m- my Sharona
@@ -71,7 +78,8 @@ Chorus 3:
 
 
 Solo:
-(guitars - no bass 2 bars)
+(guitars - no bass 1 bar)
+(bass leads in for 1 bar)
 
 [C][G][F][G]  (x12)
 

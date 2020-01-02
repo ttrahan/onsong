@@ -1,8 +1,7 @@
-
 I Won't Back Down
 Tom Petty
-Key: D
-Tempo: 132
+Key: G
+Tempo: 114
 
 
 Intro:
@@ -59,6 +58,7 @@ Solo:
 [Em][ ][D][ ][G]
 [Em][ ][D][ ][G]
 [Em][ ][D][ ][C]
+[Em][ ][D][ ][G]
 [Em][ ][D][ ][G]
 
 
