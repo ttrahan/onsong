@@ -1,7 +1,7 @@
 Ballroom Blitz
 Sweet
-Key: 
-Tempo: 
+Key: E
+Tempo: 108
 
 
 Intro:
@@ -128,4 +128,3 @@ It will [B]turn into a ballroom [E]blitz
 
 
 Riff 4x
-
