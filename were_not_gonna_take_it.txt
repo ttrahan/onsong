@@ -70,8 +70,7 @@ Solo:
 [E]  [B]  [E]  [A]
 [E]  [B]  [E]  [B]
 [E]  [B]  [E]  [A]
-[E]  [B]  [E]  [B]
-[E]  [D#5]  [C#m7]  [B]
+[E]  [B]  [E]  [D#5]  [C#m7]  [B]
 
 
 Bridge 2:
