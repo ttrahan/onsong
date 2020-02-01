@@ -1,7 +1,7 @@
 Song 2
 Blur
-Key: 
-Tempo: 
+Key: F#m
+Tempo: 130  
 
 
 (original tuned down 1/2 step)
@@ -9,6 +9,9 @@ Tempo:
 
 Intro:
 (4 measures of drums only)
+
+[F#m] [E] [A] [Bm] [C#m]
+[F#m] [E] [A] [Bm] [C#m]
 
 Woo-[F#m]hoo  [E] [A] [Bm] [C#m]
 Woo-[F#m]hoo  [E] [A] [Bm] [C#m]
