@@ -1,0 +1,136 @@
+Pinball Wizard
+The Who
+Key: D
+Tempo: 126
+
+
+[Intro]
+ 
+Bm/F#   Bsus4/F#  F#7sus4  F#7
+F#m7    Em/F#     Em/G     F#sus4   F#
+ 
+Bsus4   B   x4
+ 
+ 
+[Verse 1]
+ 
+     Bsus4                      B
+Ever since I was a young boy, I played the silver ball
+     Asus4                    A
+From Soho down to Brighton, I must have played 'em all
+      Gsus4                           G
+But I ain't seen nothin' like him, in any amusement hall
+     F#sus4                    F# N.C.
+That deaf, dumb and blind kid, sure plays a mean pinball
+ 
+ 
+[Instrumental/Chorus]
+ 
+B* B*  A*  D*  E E       x2
+ 
+ 
+[Verse 2]
+ 
+   Bsus4                         B
+He stands like a statue, becomes part of the machine
+Asus4                    A
+Feeling all the bumpers, always playing clean
+   Gsus4                   G
+He plays by intuition, the digit counters fall
+     F#sus4                    F# N.C.
+That deaf, dumb and blind kid, sure plays a mean pinball
+ 
+ 
+[Instrumental/Chorus]
+ 
+B* B*  A*  D*  E E       x2
+ 
+ 
+[Bridge]
+ 
+       E  F#*  B*
+He's a pinball wizard
+      E      F#*  B*
+There has to be a twist
+  E  F#*  B*
+A pinball wizard
+         G*            D* Dsus4* D*
+He's got such a supple wrist
+ 
+D*          Cadd9    G*
+How do you think he does it? (I don't know)
+D*         Cadd9  G*
+What makes him so good?
+ 
+ 
+[Verse 3]
+ 
+Bsus4                            B
+Ain't got no distractions, can't hear no buzzers and bells
+      Asus4                        A
+Don't see no lights a-flashin', he plays by sense of smell
+Gsus4                   G
+Always gets the replay, never seen him fall
+     F#sus4                    F# N.C.
+That deaf, dumb and blind kid, sure plays a mean pinball
+ 
+ 
+[Instrumental/Chorus]
+ 
+B* B*  A*  D*  E E       x2
+ 
+ 
+[Bridge]
+ 
+  E       F#* B*
+I thought I was
+    E     F#*   B*
+The Bally table king
+    E F#*  B*
+But I just handed
+   G*               D* Dsus4* D*
+My pinball crown to him
+ 
+ 
+[Interlude]
+ 
+Dsus4   D   x4
+ 
+ 
+[Verse 4]
+ 
+     Dsus4                  D
+Even on my favourite table, he can beat my best
+      Csus4                    C
+His disciples lead him in, and he just does the rest
+         Bbsus4                 Bb
+He's got crazy flipper fingers, never seen him fall
+     Asus4                     A N.C.
+That deaf, dumb and blind kid, sure plays a mean pinball
+ 
+ 
+ 
+Chords:
+ 
+A       xx765x
+A*      x02220
+Asus4   xx775x
+Bb      xx876x
+Bbsus4  xx886x
+B       xx987x
+Bsus4   xx997x
+B*      x2444x
+C       xx1098x
+Csus4   xx10108x
+Cadd9   x32033
+D       xx121110x
+Dsus4   xx121210x
+D*      xx0232
+Dsus4*  xx0233
+E       022100
+F#      xx432x
+F#sus4  xx442x
+F#*     244322
+G       xx543x
+Gsus4   xx553x
+G*      320003
