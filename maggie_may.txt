@@ -14,112 +14,85 @@ Dsus2  D  Em  Em7  G  A7sus4  G/B   D/A  G  Bm
  
 [Verse 1]
  
-A                G                           D
-Wake up Maggie I think I've got something to say to you
-     A                    G                D
-It's late September and I really should be back at school
-  G                D           G              A
-I know I keep you amused But I feel I'm being used
-   Em                     F#m       Em     Dsus2/F#
-Oh Maggie I couldn’t have tried any more
-    Em               A            Em                   A
-You led me away from home just to save you from being alone
-    Em                  A                  D
-You stole my heart, and that's what really hurts
+[A]Wake up Maggie I [G]think I've got something to [D]say to you
+It's [A]late September and I [G]really should be [D]back at school
+I [G]know I keep you a[D]mused, but I [G]feel I'm being [A]used
+Oh [Em]Maggie I couldn’t have [F#m]tried any [Em]more   [Dsus2/F#]
+
+You [Em]led me away from [A]home 
+Just to [Em]save you from being a[A]lone
+You [Em]stole my heart, and [A]that's what really [D]hurts
  
  
 [Verse 2]
  
-    A                     G                   D
-The morning sun when it's in your face really shows your age
-    A                   G                       D
-But that don't worry me none, in my eyes you're everything
-  G                   D         G                       A
-I laughed at all your jokes, my love you didn't need to coax
-   Em                     F#m       Em   Dsus2/F#  DM9/F#  A7sus2/E
-Oh Maggie I couldn’t have tried any more
-        Em           A            Em                  A
-You led me away from home just to save you from being alone
-    Em                     A          G      D
-You stole my soul that's a pain I can do without
+The [A]morning sun when it's [G]in your face really [D]shows your age
+But [A]that don't worry me [G]none, in my eyes you're [D]everything
+I [G]laughed at all your [D]jokes, my [G]love you didn't need to [A]coax
+Oh [Em]Maggie I couldn’t have [F#m]tried any [Em]more  [Dsus2/F#]  [Dm9/F#]  [A7sus2/E]
+
+You [Em]led me away from [A]home
+Just to [Em]save you from being a[A]lone
+You [Em]stole my soul that's a [A]pain I can [G]do with[D]out
  
  
 [Verse 3]
  
-A                  G                D
-All I needed was a friend to lend a guiding hand
-        A                       G                       D
-But you turned into a lover and mother what a lover you wore me out
-G                        D              G                      A
-All you did was wreck my bed And in the morning kick me in the head
-   Em                     F#m       Em   Dsus2/F#
-Oh Maggie I couldn’t have tried any more
-    Em               A               Em                 A
-You led me away from home 'cause you didn't want to be alone
-    Em                        A         G    D
-You stole my heart I couldn't leave you if I tried
+[A]All I needed was a [G]friend to lend a [D]guiding hand
+But you [A]turned into a lover and [G]mother what a lover you [D]wore me out
+[G]All you did was wreck my [D]bed, and in the [G]morning kick me in the [A]head
+Oh [Em]Maggie I couldn’t have [F#m]tried any [Em]more  [Dsus2/F#]
+
+You [Em]led me away from [A]home
+Cuz you [Em]didn't want to be a[A]lone
+You [Em]stole my heart, I couldn't [A]leave you [G]if I [D]tried
  
  
 [Guitar Solo]
  
-Em  A  D  G
- 
-Em  G  D  D
+[Em] [A]  [D]  [G]
+[Em] [G]  [D]  [D]
  
  
 [Verse 4]
  
-A                 G                           D
-I suppose I could collect my books and get on back to school
-   A                G                            D
-Or steal my daddy's cue and make a living out of playing fool
-   G                           D         G               A
-Or find myself a rock and roll band that needs a helping hand
-   Em                 F#m             Em   Dsus2/F#
-Oh Maggie, I wish I'd never seen your face
-           Em                      A              Em                  A
-You made a first class fool out of me, but I'm as blind as a fool can be
-    Em                   A        G  D
-You stole my heart but I love you anyway
+[A]I suppose I could [G]collect my books and get on [D]back to school
+Or [A]steal my daddy's [G]cue and make a living out of [D]playing fool
+Or [G]find myself a rock and roll [D]band that [G]needs a helping [A]hand
+Oh [Em]Maggie, I wish I'd [F#m]never seen your [Em]face  [Dsus2/F#]
+
+You made a [Em]first class fool out of [A]me
+But I'm as [Em]blind as a fool can [A]be
+You [Em]stole my heart but I [A]love you [G]any[D]way
  
  
 [Guitar Solo]
  
-Em  A  D  G
+[Em] [A]  [D]  [G]
+[Em] [G]  [D]  [D]
+[Em] [A]  [D]  [G]
+[Em] [G] 
  
-Em  G  D  D
+[Mandolin Solo - same as intro solo]
  
-Em  A  D  G
- 
-Em  G
- 
- 
-[Mandolin Solo]
- 
-D  Em   G   D
- 
-D  Em7  G6  D  G6  D
- 
-D  Em7  G6  D  G6  D
- 
-D  A7sus4/E    G6  D  G6  D
- 
-D  A7sus4/E    G6  D  G6  D
+[D]  [Em]   [G]   [D]
+[D]  [Em7]  [G6]  [D]  [G6]  [D]
+[D]  [Em7]  [G6]  [D]  [G6]  [D]
+[D]  [A7sus4/E]    [G6]  [D]  [G6]  [D]
+[D]  [A7sus4/E]    [G6]  [D]  [G6]  [D]
  
  
 [Outro]
  
-D         Em       G               D    G
-Maggie, I wish I’d never seen your face
+[D]Maggie, I [Em]wish I’d [G]never seen your [D]face  [G]
  
-D         Em7      G6              D     G   D
+[D]         [Em7]      [G6]              [D]     [G]   [D]
  
-Dsus2 D           Em7   G6     G     D    G   D
-I’ll  get on back home, one of these days
+[Dsus2]I’ll  [D]get on [Em7]back [G6]home, [G]one of these [D]days  [G]  [D]
  
-D                Em7   G6           D    G   D
+[D]         [Em7]      [G6]              [D]     [G]   [D]
+[D]         [Em7]      [G6]              [D]     [G]   [D]
  
-D                Em7   G6           D    G   D
 (fade out)
 
 

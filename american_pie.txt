@@ -74,8 +74,8 @@ and [C]moss grows fat on a [Am]rolling stone
 [Em]but that's not how it [D]used to be
 
 When the [G]jester [D/F#]sang for the [Em]king and queen 
-in a [Am7]coat he [C]borrowed from James [Em]Dean
-in a [A7]voice that came from you and [D]me
+in a [Am7]coat he borrowed [C]from James Dean
+in a [Em]voice that [A7]came from you and [D]me
 
 Oh, and [Em]while the king was [D]looking down
 the [Em]jester stole his [D]thorny crown
@@ -113,10 +113,10 @@ Now the [Em]half-time air was [D]sweet perfume
 [Em]while sergeants played a [D]marching tune
 
 We [C]all [G/B]got up to [A7]dance
-but we [C]never got the [D7]chance
+Oooh, but we [C]never got the [D7]chance
 
 'Cuz the [G]players [D/F#]tried to [Em]take the field
-the [Am]marching band re[Cm]fused to yield
+the [Am]marching band re[C]fused to yield
 
 [G]Do you re[D/F#]call what [Em]was revealed 
 the [C]day the [D7]music [G]died    
@@ -125,35 +125,35 @@ the [C]day the [D7]music [G]died
  
 [Chorus]
  
-G    C        G        D
-Bye, bye Miss American Pie
-         G            C            G        D
-Drove my Chevy to the levy but the levy was dry
-         G        C                  G           D
-And them good old boys were drinkin' whiskey and rye
-        Em*                         A7*   Em*                         D7
-Singin' this will be the day that I die, this will be the day that I die
+[G]Bye, [C]bye Miss A[G]merican [D]Pie
+Drove my [G]Chevy to the [C]levy but the [G]levy was [D]dry
+And them [G]good old [C]boys were drinkin' [G]whiskey and [D]rye
+Singin' [Em]this will be the day that I [Am7]die
+[Em]this will be the day that I [D7]die
  
  
 [Verse 5]
  
-     G                Am
-And there we were all in one place,
-    C        Am            Em                   D
-a generation lost in space, with no time left to start again
-            G      D/F#   Em               Am7                 C
-So come on Jack be nimble, Jack be quick, Jack Flash sat on a candle 
-       Em                   A7             D
-stick, 'cuz fire is the devil's only friend
-     Em*              D*               Em*                    D*
-And as I watched him on the stage, my hands were clenched in fists of rage
-   C      G/B    A7         C                  D7
-No angel born in Hell could break that Satan's spell
-           G            D/F#      Em             Am              C
-And as the flames climbed high into the night to light the sacrificial rite
-       G   D/F#           Em           C      D7      G  C  G
-I saw Satan laughing with delight the day the music died,     he was singin'
- 
+And [G]there we were all [Am]in one place,
+a [C]generation [Am]lost in space
+[Em]with no time left to start a[D]gain
+
+So come on [G]Jack be [D/F#]nimble [Em]Jack be quick
+[Am7]Jack Flash sat on a [C]candlestick
+'cuz [Em]fire is the [A7]devil's only [D]friend
+
+And [Em]as I watched him [D]on the stage
+my [Em]hands were clenched in [D]fists of rage
+No [C]angel [G/B]born in [A7]Hell
+could [C]break that Satan's [D7]spell
+
+And as the [G]flames climbed [D/F#]high in[Em]to the night
+to [Am]light the sacri[C]ficial rite
+
+I saw [G]Satan [D/F#]laughing [Em]with delight 
+the [C]day the [D7]music [G]died 
+[C]   [G]    he was singin'
+
  
 [Chorus]
  
@@ -170,8 +170,8 @@ Singin' [Em]this will be the day that I [Am7]die
 And I [Am]asked her for some [C]happy news
 but [Em]she just smiled and [D]turned away
 
-[G]I went [D/F#]down to the [Em]sacred store
-Where I'd [Am]heard the [C]music years before
+[G]I went down [D/F#]to the [Em]sacred store
+Where I'd [Am]heard the music [C]years before
 but the [Em]man there said the [C]music wouldn't [D]play
 
 But [Em]in the streets the [Am]children screamed
