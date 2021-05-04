@@ -5,12 +5,12 @@ Key: C
 Tempo:152 
 
 
-[Intro]
-G/D		 F/C	 G  F/G  G  F/G
-G/D		 F/C	 G  F/G  G  F/G
+Intro:
+[G/D]   [F/C]   [G]  [F/G]  [G]  [F/G]
+[G/D]   [F/C]   [G]  [F/G]  [G]  [F/G]
 
 
-[Verse]
+Verse 1:
 [G]
 It's getting late have you seen my mates
    [F]
@@ -31,7 +31,7 @@ A handful of grease in her hair
 Ohhhhhhh
  
  
-[Chorus]
+Chorus 1:
 [C]
  Don't give us none of your aggravation
    [Bb]
@@ -57,7 +57,7 @@ Oooooo    oo-oo  ooh
 [G]           [Dm]    [F]
  
  
-[Verse]
+Verse 2:
              [G]
 Well they're packed pretty tight in here tonight
     [F]
@@ -78,7 +78,7 @@ Whose best friend floats in the bottom of a glass
 Ohhhhhhh
  
  
-[Chorus]
+Chorus 2:
 [C]
  Don't give us none of your aggravation
    [Bb]
@@ -101,7 +101,7 @@ Al - right al - right
 Oooooo    oo-oo  ooh
  
  
-[Instrumental]
+Instrumental 1:
  
 (Chorus pattern)
 [C]           [Bb]          [F]           [C]
@@ -110,7 +110,7 @@ Oooooo    oo-oo  ooh
       Ohhhhhhh
  
  
-[Chorus]
+Chorus 3:
 [C]
  Don't give us none of your aggravation
    [Bb]
@@ -133,13 +133,13 @@ Al - right al – right
 Oooooo    oo-oo  ooh
  
  
-[Instrumental]
+Instrumental 2:
  
-(Chorus pattern)
+Chorus pattern:
 [C]           [Bb]          [F]           [C]
  
  
-[Outro]
+Outro:
  
 (Chorus pattern x3)
  
@@ -153,5 +153,5 @@ Saturday, Saturday
 Saturday night’s alright.   Wooooo!
  
  
-[Instrumental to fade] (Chorus pattern, improv.)
+(Instrumental to fade) (Chorus pattern, improv.)
 [C]           [Bb]          [F]           [C]          (~x3)
