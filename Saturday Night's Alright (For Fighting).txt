@@ -1,153 +1,149 @@
-[Intro]
-G/D         F/C     G  F/G  G  F/G
-G/D         F/C     G  F/G  G  F/G
- 
- 
-[Verse]
-     G
+Saturday Night's Alright (For Fighting)
+Elton John
+Key: G
+Tempo:152 
+
+
+Intro:
+[G][Gsus]     [F][Fsus]     [C][Csus]
+[G][Gsus]     [F][Fsus]     [C][Csus]
+
+
+Verse 1:
+[G]
 It's getting late have you seen my mates
-   F
+   [F]
 Ma tell me when the boys get here
-     C
+     [C]
 It's seven o'clock and I want to rock
-        G
+        [G]
 Want to get a belly full of beer
-   G
+   [G]
 My old man's drunker than a barrel full of monkeys
-       F
+       [F]
 And my old lady she don't care
-   C
+   [C]
 My sister looks cute in her braces and boots
-  G
+  [G]
 A handful of grease in her hair
-Dm7         ↓Gliss…
+[Dm7/G#]
 Ohhhhhhh
  
  
-[Chorus]
-C
+Chorus 1:
+[C]
  Don't give us none of your aggravation
-   Bb
+   [A#]
 We had it with your discipline
-F
+[F]
 Saturday night's alright for fighting
-C
+[C]
 Get a little action in
-C
+[C]
 Get about as oiled as a diesel train
-Bb
+[A#]
 Gonna set this dance alight
-       F
+       [F]
 `Cause Saturday night's the night I like
-C
-Saturday night's alright 
-C/E  C/F   C/F#   G      G/F-E
-Al - right al - right   
-Cm7/Eb    D7sus4  C
+[C]                                     [G]  
+Saturday night's alright Al - right al - right 
+  
+[D#]      [A#]  [C]
 Oooooo    oo-oo  ooh
  
-G           Dm    F
-G           Dm    F
+[G]           [C][F]  [G]
+[G]           [C][F]
  
- 
-[Verse]
-             G
+Verse 2:
+             [G]
 Well they're packed pretty tight in here tonight
-    F
+    [F]
 I'm looking for a dolly who'll see me right
-      C
+      [C]
 I may use a little muscle to get what I need
-      G
+      [G]
 I may sink a little drink and shout out "She's with me!"
-  G
+  [G]
 A couple of the sounds that I really like
-        F
+        [F]
 Are the sounds of a switchblade and a motorbike
-      C
+      [C]
 I'm a juvenile product of the working class
-      G
+      [G]
 Whose best friend floats in the bottom of a glass
-Dm7         ↓Gliss…
+[Dm7]         ↓Gliss…
 Ohhhhhhh
  
  
-[Chorus]
-C
+Chorus 2:
+[C]
  Don't give us none of your aggravation
-   Bb
+   [A#]
 We had it with your discipline
-F
+[F]
 Saturday night's alright for fighting
-C
+[C]
 Get a little action in
-C
+[C]
 Get about as oiled as a diesel train
-Bb
+[A#]
 Gonna set this dance alight
-       F
+       [F]
 `Cause Saturday night's the night I like
-C
-Saturday night's alright 
-C/E  C/F   C/F#   G      G/F-E
-Al - right al - right   
-Cm7/Eb    Dm7b5  C
+[C]                                     [G]  
+Saturday night's alright Al - right al - right 
+  
+[D#]     [A#]    [C]
 Oooooo    oo-oo  ooh
  
- 
-[Instrumental]
+Instrumental 1:
  
 (Chorus pattern)
-C           Bb          F           C
-C           Bb          F           C
-Dm7         ↓Gliss…
+[C]           [A#]          [F]           [C]
+[C]           [A#]          [F]           [C]
+[Dm7]         ↓Gliss…
       Ohhhhhhh
  
  
-[Chorus]
-C
+Chorus 3:
+[C]
  Don't give us none of your aggravation
-   Bb
+   [A#]
 We had it with your discipline
-F
+[F]
 Saturday night's alright for fighting
-C
+[C]
 Get a little action in
-C
+[C]
 Get about as oiled as a diesel train
-Bb
+[A#]
 Gonna set this dance alight
-       F
+       [F]
 `Cause Saturday night's the night I like
-C
-Saturday night's alright 
- C/E  C/F   C/F#  G     G/F-E
-Al - right al – right 
-Cm7/Eb    Dm7b5  C
+[C]                                     [G]  
+Saturday night's alright Al - right al - right 
+[D#]     [A#]    [C]
 Oooooo    oo-oo  ooh
  
+Instrumental 2:
  
-[Instrumental]
- 
-(Chorus pattern)
-C           Bb          F           C
+Chorus pattern:
+[C]           [Bb]          [F]           [C]
  
  
-[Outro]
+Outro:
  
 (Chorus pattern x3)
  
-C
+[C]
 Saturday, Saturday, Saturday
-Bb
+[A#]
 Saturday, Saturday, Saturday
-F
+[F]
 Saturday, Saturday
-         C
+         [C]
 Saturday night’s alright.   Wooooo!
  
  
-[Instrumental to fade] (Chorus pattern, improv.)
-C           Bb          F           C          (~x3)
- 
-END
- 
+(Instrumental to fade) (Chorus pattern, improv.)
+[C]           [A#]          [F]           [C]          (~x3)

@@ -1,6 +1,6 @@
 Don't You (Forget About Me)
 Simple Minds
-Key: G 
+Key: A 
 Tempo: 111 
 
 
@@ -48,7 +48,7 @@ Bridge 1:
 
 Repeat intro:
 [D]  [E]  Hey, hey, hey, hey
-[D]  [E]  Ooooooo[E]oooo[D]oooh, 
+[D]  [E]  Ooooooo[C]oooo[D]oooh, 
 [D]oh  [E]
 [D]  [E]
 [C]  [D]

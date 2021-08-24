@@ -5,30 +5,31 @@ Tempo: 120
 
 
 Intro:
-[E]
+
 (drums only)
 
-[E] [G] [A] [G] [E]
+[E] [G] [A] [G] 
 Oi, oi, oi    Oi, oi, oi, oi
 
-[E] [G] [A] [G] [E]
+[E] [G] [A] [G] 
 Oi, oi, oi    Oi, oi, oi, oi
 
 
 Verse 1:
-[E] [G]    [A]    [G]         [E]
+[E] [G]    [A]    [G]
     See me ride out of that sunset
-[E] [G]    [A]    [G]         [E]
+[E] [G]    [A]    [G]
     On your color TV screen
-[E] [G]    [A]    [G]         [E]
+[E] [G]    [A]    [G]
     Out for all that I can get
-[E] [G]    [A]    [G]         [E]
+[E] [G]    [A]    [G]
     If you know what I mean
-[E] [G]    [A]    [G]         [E]
+[E] [G]    [A]    [G]
+(bass comes in)
     Women to the left of me
-[E] [G]    [A]    [G]         [E]
+[E] [G]    [A]    [G]
     And women to the right
-[E] [G]    [A]    [G]         [E]
+[E] [G]    [A]    [G]
     Ain't got no gun, ain't got no knife
 [E] [G]    [A]
     Don't you start no fight
@@ -42,38 +43,38 @@ I'm dynamite
         [A][G][E]
 TNT
         [A][G][E]
+And I'll win that fight
+        [A][G][E]
 I'm a power load
         [A][G][E]
 TNT
-  [G]       [A]
-Watch me explode
+[A][G][E]
+        Watch me explode
 
 
-Solo:
+Pre-verse:
 
-[E] [G] [A] [G] [E]
-[E] [G] [A] [G] [E]
-[E] [G] [A] [G] [E]
-[E] [G] [A]
+[E] [G] [A] [G] 
+[E] [G] [A] [G] 
 
 
 Verse 2:
-[E] [G]    [A]    [G]         [E]
+[E] [G]    [A]    [G]
     I'm dirty, mean, and might unclean
-[E] [G]    [A]    [G]         [E]
+[E] [G]    [A]    [G]
     I'm a wanted man
-[E] [G]    [A]    [G]         [E]
+[E] [G]    [A]    [G]
     Public enemy number one
-[E] [G]    [A]    [G]         [E]
+[E] [G]    [A]    [G]
     Understand 
-[E] [G]    [A]    [G]         [E]
-    So lock up your daughter and lock up your wife 
-[E] [G]    [A]    [G]         [E]
-    Lock up your back door and run for your life 
-[E] [G]    [A]    [G]         [E]
-    The man is back in town 
+[E] [G]    [A]    [G]
+    So lock up your daughter and lock up your wife
+[E] [G]    [A]    [G]
+    Lock up your back door and run for your life
+[E] [G]    [A]    [G]
+    The man is back in town
 [E] [G]    [A]
-    So don't you mess me 'round 
+    So don't you mess me 'round
 
 
 Chorus 2:
@@ -84,14 +85,22 @@ I'm dynamite
         [A][G][E]
 TNT
         [A][G][E]
+And I'll win that fight
+        [A][G][E]
 I'm a power load
         [A][G][E]
 TNT
-  [G]       [A]
-Watch me explode
+[A][G][E]
+        Watch me explode
 
+Solo: 
+[E] [G]    [A]    [G]
+[E] [G]    [A]    [G]
+[E] [G]    [A]    [G]
+[E] [G]    [A]
+               (hold)
 
-Outro:
+Chorus 3:
 [A][G][E]
 TNT (oi, oi, oi)
 [A][G][E]
@@ -119,4 +128,6 @@ TNT (oi, oi, oi)
 [G]         [A]
 Watch me explode
 
-[E]
+
+Outro:
+(garbage can ending)

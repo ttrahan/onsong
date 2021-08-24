@@ -1,91 +1,92 @@
 Basket Case
 Green Day
-Key: Eb
+Key: E
 Tempo: 
 
 Verse 1:
 
 (vocals + guitar 1 only)
 
-[Eb]Do you have the [Bb]time
-[Cm]To listen to me [Gm]whine
-[Ab]About nothing [Eb]and everything
-All [Bb]at once
+[E]Do you have the [B]time
+[C#]To listen to me [G#m]whine
+[A]About nothing [E]and everything
+All [B]at once
 
-[Eb]I am one of [Bb]those
-[Cm]Melodra[Gm]matic fools
-[Ab]Neurotic to [Eb]the bone 
-No doubt a[Bb]bout it
+[E]I am one of [B]those
+[C#]Melodra[G#m]matic fools
+[G#]Neurotic to [E]the bone 
+No doubt a[A#]bout it
 
 
 Chorus 1:
-[Ab]Sometimes I [Bb]give myself [Eb]the creeps
-[Ab]Sometimes my [Bb]mind plays tricks [Eb]on me
-It [Ab]all keeps adding [Bb]up
+[A]Sometimes I [B]give myself [E]the creeps
+[A]Sometimes my [B]mind plays tricks [E]on me
+It [A]all keeps adding [B]up
 
 (all in)
 
-I [Eb]think I'm [Db]cracking [Cm]up
-[Ab]Am I just para[Bb]noid
-Or am I just [Eb]stoned
+I [E]think I'm [D]cracking [C#m]up
+[A]Am I just para[B]noid
+Or am I just [E]stoned
 
 
 Riff 1:
-[Eb][ ][Bb][ ][Cm][ ][Bb]
-[Eb][ ][Bb][ ][Cm][ ][Bb]
+[E][ ][B][ ][C#m][ ][B]
+[E][ ][B][ ][C#m][ ][B]
 
 
 Verse 2:
-I [Eb]went to a [Bb]shrink
-To [Cm]analyze my [Gm]dreams
-She [Ab]says it's lack of [Eb]sex 
-That's bringing [Bb]me down
+I [E]went to a [B]shrink
+To [C#m]analyze my [G#m]dreams
+She [A]says it's lack of [E]sex 
+That's bringing [B]me down
 
-I [Eb]went to a [Bb]whore
-He [Cm]said my life's a [Gm]bore
-So [Ab]quit my whining [Eb]cuz
-It's bringing [Bb]her down
+I [E]went to a [B]whore
+He [C#m]said my life's a [G#m]bore
+So [A]quit my whining [E]cuz
+It's bringing [B]her down
 
 
 Chorus 2:
-[Ab]Sometimes I [Bb]give myself [Eb]the creeps
-[Ab]Sometimes my [Bb]mind plays tricks [Eb]on me
-It [Ab]all keeps adding [Bb]up
-I [Eb]think I'm [Db]cracking [Cm]up
-[Ab]Am I just para[Bb]noid
-Uh, yuh, yuh, [Eb]yuh
+[A]Sometimes I [B]give myself [E]the creeps
+[A]Sometimes my [B]mind plays tricks [E]on me
+It [A]all keeps adding [B]up
+
+I [E]think I'm [D]cracking [C#m]up
+[A]Am I just para[B]noid
+Uh, yuh, yuh, [E]yuh
 
 
 Riff 2:
-[Eb][ ][Bb][ ][Cm][ ][Bb]
-[Eb][ ][Bb][ ][Cm][ ][Bb]
-[Eb][ ][Bb][ ][Cm][ ][Bb]
-[Eb][ ][Bb][ ][Cm][ ][Bb]
+[E][ ][B][ ][C#m][ ][B]
+[E][ ][B][ ][C#m][ ][B]
+[E][ ][B][ ][C#m][ ][B]
+[E][ ][B][ ][C#m][ ][B]
 
 
 Bridge:
-[Ab]Grasping to con[Bb]trol
+[A]Grasping to con[B]trol
 So I better 
 
-[Eb]hold [Bb]on[ ][Cm][ ][Gm]
-[Ab][ ][Eb][ ][Bb][ ][Bb]
+[E]hold [B]on[ ][C#m][ ][G#m]
+[A][ ][E][ ][B][ ][B]
 
-[Eb][ ][Bb][ ][Cm][ ][Gm]
-[Ab][ ][Eb][ ][Bb][ ][Bb]
+[E][ ][B][ ][C#m][ ][G#m]
+[A][ ][E][ ][B][ ][B]
 
 
 Chorus 3:
-[Ab]Sometimes I [Bb]give myself [Eb]the creeps
-[Ab]Sometimes my [Bb]mind plays tricks [Eb]on me
-It [Ab]all keeps adding [Bb]up
-I [Eb]think I'm [Db]cracking [Cm]up
-[Ab]Am I just para[Bb]noid
-Or am I just [Eb]stoned
+[A]Sometimes I [B]give myself [E]the creeps
+[A]Sometimes my [B]mind plays tricks [E]on me
+It [A]all keeps adding [B]up
+I [E]think I'm [D]cracking [C#m]up
+[A]Am I just para[B]noid
+Or am I just [E]stoned
 
 
 Outro:
-[Eb][ ][Cm][ ][Ab][ ][Eb][ ][Bb]
-[Eb][ ][Cm][ ][Ab][ ][Eb][ ][Bb]
-[Eb][ ][Cm][ ][Ab][ ][Eb][ ][Bb]
-[Eb][ ][Cm][ ][Ab][ ][Eb][ ][Bb]
-[Ab][ ][Eb][ ][Bb]
+[E][ ][C#m][ ][A][ ][E][ ][B]
+[E][ ][C#m][ ][A][ ][E][ ][B]
+[E][ ][C#m][ ][A][ ][E][ ][B]
+[E][ ][C#m][ ][A][ ][E][ ][B]
+[A][ ][E][ ][B]

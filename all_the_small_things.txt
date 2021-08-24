@@ -5,8 +5,9 @@ Tempo: 149
 
 
 Intro:
-G (hold)  
-C  G G Am F  x2
+G F  
+
+[C] [F] [C] [G] X [G] [F] x2
 
 
 Verse 1:
@@ -45,7 +46,8 @@ Nana nana nana nana na na
 
 
 Post-Chorus 1:
-C  G G Am F  x2
+
+C F C G X G F x2
 
 
 Verse 2:
@@ -78,6 +80,7 @@ Nana nana nana nana na na
 
 
 Interlude: 
+
 C  F G  x4
 
 
@@ -100,7 +103,7 @@ The night will go on
               C
 my little windmill
 
-
+C
 Say it ain't so
            G
 i will not go
@@ -108,13 +111,13 @@ i will not go
 Turn the lights off
          C
 carry me home
-
+C
 Keep your head still
              G
 i'll be your thrill
                   F
 The night will go on
-
+F		 F
 the night will go on
              C  (hold)
 A little windmill
