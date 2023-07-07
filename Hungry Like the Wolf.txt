@@ -1,103 +1,60 @@
 Hungry Like the Wolf
 Duran Duran
-Key: Em
+Key: E
 Tempo: 128
 
-
-
-Intro: (riff x4)
-E
+Intro:
+(riff x4)
+[E] 
 
 
 Verse 1:
-E
-Dark in the city, night is a wire
-
+[E]Dark in the city, night is a wire
 Steam in the subway, the earth is afire
-      D                                               E   
-Do do doo do - do doo do - do doo do - do doo do - do do
-E
-Woman you want me, give me a sign
-
+Do do [D]doo do - do doo do - do doo do - do doo do - do [E]do  
+[E]Woman you want me, give me a sign
 And catch my breathing even closer behind
-      D                                               E
-Do do doo do - do doo do - do doo do - do doo do - do do
-
+Do do [D]doo do - do doo do - do doo do - do doo do - do [E]do
 
 Chorus 1:
-C                 G                  F
-In touch with the ground, I'm on the hunt I'm after you
-               C                       G
-Smell like I sound, I'm lost in a crowd
-        F               D
-And I'm hungry like the wolf
-             C                      G                 F
-Straddle the line, in discord and rhyme, I'm on the hunt I'm after you
-          C                   G             F               D        
-Mouth is alive, with juices like wine, and I'm hungry like the wolf
-
+[C]In touch with the [G]ground, I'm on the [F]hunt I'm after you
+Smell like I so[C]und, I'm lost in a crowd[G] 
+And I'm [F]hungry like the [D]wolf
+Straddle the [C]line, in discord and rh[G]yme, I'm on the hu[F]nt I'm after you
+Mouth is a[C]live, with juices li[G]ke wine, and I[F]'m hungry like t[D]he wolf  
 
 Verse 2:
-E
-Stalked in the forest, too close to hide
-
+[E]Stalked in the forest, too close to hide
 I'll be upon you by the moonlight side
-      D                                               E   
-Do do doo do - do doo do - do doo do - do doo do - do do
-E
-High blood drumming on your skin, it's so tight
-
+Do do [D]doo do - do doo do - do doo do - do doo do - do [E]do  
+[E]High blood drumming on your skin, it's so tight
 You feel my heat, I'm just a moment behind
-      D                                               E   
-Do do doo do - do doo do - do doo do - do doo do - do do
-
+Do do [D]doo do - do doo do - do doo do - do doo do - do [E]do  
 
 Chorus 2:
-C                 G                  F
-In touch with the ground, I'm on the hunt I'm after you
-               C                       G
-Scent and a sound, I'm lost and I'm found
-        F               D
-And I'm hungry like the wolf
-             C                      G                 F
-Strut on the line, it's discord and rhyme, I howl and I whine I'm after you
-          C                      G             F               D        
-Mouth is alive, all running inside, and I'm hungry like the wolf
-
+[C]In touch with the [G]ground, I'm on the [F]hunt I'm after you
+Scent and a sou[C]nd, I'm lost and I'm fou[G]nd
+And I'm [F]hungry like the [D]wolf
+Strut on the [C]line, it's discord and [G]rhyme, I howl and [F]I whine I'm after you
+Mouth is a[C]live, all running insid[G]e, and I'm hun[F]gry like the wol[D]f        
 
 Bridge: (8 bars)
-
-E 
-Hungry like the wolf, 
+[E]Hungry like the wolf, 
 Hungry like the wolf, 
 Hungry like the wolf…
 
-
 Chorus 3:
-C                 G                  
-Burning the ground, I’ll break from the crowd
-F
-I'm on the hunt I'm after you
-               C                       G
-I smell like I sound, I'm lost and I'm found
-        F               D
-And I'm hungry like the wolf
-             C                      G                 F
-Strut on a line, it's discord and rhyme, I'm on the hunt I'm after you
-          C                      G             F               D        
-Mouth is alive, with juices like wine, and I'm hungry like the wolf
-
+[C]Burning the ground[G], I’ll break from the crowd
+[F]I'm on the hunt I'm after you
+I smell like I [C]sound, I'm lost and I'm [G]found
+And I'm [F]hungry like the [D]wolf
+Strut on a li[C]ne, it's discord and rh[G]yme, I'm on the hu[F]nt I'm after you
+Mouth is a[C]live, with juices like [G]wine, and I'm [F]hungry like the [D]wolf     
 
 Chorus 4:
-C                 G                  
-Burning the ground, I break from the crowd
-F
-I'm on the hunt I'm after you
-               C                       G
-A scent and the sound, I'm lost and I'm found
-        F               D
-And I'm hungry like the wolf
-             C                      G                 F
-Strut on a line, it's discord and rhyme, I howl and I whine I'm after you
-          C                      G             F               D        
-Mouth is alive, I'm running inside, and I'm hungry like the wolf
+[C]Burning the ground[G], I break from the crowd
+[F]I'm on the hunt I'm after you
+A scent and the[C] sound, I'm lost and I'm[G] found
+And I'm [F]hungry like the [D]wolf
+Strut on a li[C]ne, it's discord and rh[G]yme, I howl and I [F]whine I'm after you
+Mouth is a[C]live, I'm running insid[G]e, and I'm hun[F]gry like the wol[D]f 

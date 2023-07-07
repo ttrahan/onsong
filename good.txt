@@ -1,53 +1,78 @@
 Good
 Better Than Ezra
-Key: G 
-Tempo: 110 
+Key: G
+Tempo: 110 BPM
 
 
 Intro:
 (all in)
-[G][ ][D][ ][Em][ ][C]
-[G][ ][D][ ][Em][ ][C]
+G D Em C
+
+G D Em C
+
 
 (bass and drums only)
-[G][ ][D][ ][Em][ ][C]
-[G][ ][D][ ][Em][ ][C]
+G D Em C
+
+G D Em C
+
 
 
 Verse 1:
-[G]Lookin' a[D]round the [Em]house [  ][C]
-[G]Hidden be[D]hind the [Em]window and the [C]door
-[G]Searchin' for [D]signs of [Em]life but there's [C]nobody home
+G        D         Em      C
+Lookin' around the house
+G        D        Em             C
+Hidden behind the window and the door
+G             D        Em               C
+Searchin' for signs of life but there's nobody home
 
-[G][ ][D][ ][Em][ ][C]
-[G][ ][D][ ][Em][ ][C]
+G D Em C
+
+G D Em C
+
 
 
 Verse 2:
-Well [G]maybe I'm [D]just too [Em]sure [  ][C]
-Or [G]maybe I'm [D]just too [Em]frightened by the [C]sound of it
-[G]Pieces of [D]note fall [Em]down but the let[C]ter said
+     G         D        Em     C
+Well maybe I'm just too sure
+   G         D        Em                C
+Or maybe I'm just too frightened by the sound of it
+G         D         Em              C
+Pieces of note fall down but the letter said
+
 
 Chorus 1:
-[G]Uh-huh,[D] it was [Em]good li[C]vin' with you
-[G]Uh-huh,[D] it was [Em]good, aw-aw-[C]aw-aw-aw
-[G]Uh-huh,[D] it was [Em]good li[C]vin' with you
-[G]Uh-huh,[D] it was [Em]good, aw-aw-[C]aw-aw
+G      D       Em     C
+Uh-huh, it was good livin' with you
+G      D       Em          C
+Uh-huh, it was good, aw-aw-aw-aw-aw
+G      D       Em     C
+Uh-huh, it was good livin' with you
+G      D       Em          C
+Uh-huh, it was good, aw-aw-aw-aw
 
-[G]Good, [D]good, [Em]good, [C]good
-[G]Good, [D]good, [Em]good [C]
+
+Interlude:
+G     D     Em    C
+Good, good, good, good
+G     D     Em   C
+Good, good, good
 
 
 Verse 3:
-[G]Sittin' a[D]round the [Em]house [  ][C]
-[G]Watchin' the [D]sun trace [Em]shadows on the [C]floor
-[G]Searchin' for [D]signs of [Em]life but there's [C]nodody home
+G        D         Em      C
+Sittin' around the house
+G            D         Em             C
+Watchin' the sun trace shadows on the floor
+G             D        Em               C
+Searchin' for signs of life but there's nodody home
 
-[G][ ][D][ ][Em][ ][C]
+G D Em C
+
 
 
 Verse 4:
-
+     G          D       Em                C
 Well maybe I'll call or write you a letter
 Well maybe we'll see on the fourth of July
 But I'm not to sure and I'm not too proud
@@ -55,27 +80,40 @@ Well I'm not to sure and I'm not too proud to say
 
 
 Chorus 2:
-[G]Uh-huh,[D] it was [Em]good li[C]vin' with you
-[G]Uh-huh,[D] it was [Em]good, aw-aw-[C]aw-aw-aw
-[G]Uh-huh,[D] it was [Em]good li[C]vin' with you
-[G]Uh-huh,[D] it was [Em]good, aw-aw-[C]aw-whoa
+G      D       Em     C
+Uh-huh, it was good livin' with you
+G      D       Em          C
+Uh-huh, it was good, aw-aw-aw-aw-aw
+G      D       Em     C
+Uh-huh, it was good livin' with you
+G      D       Em          C
+Uh-huh, it was good, aw-aw-aw-whoa
 
 
 Solo:
-[A]Ohhhhhh[Em][ ][F#m][ ][D]
-[A]So good [Em][ ][F#m][ ][D]
-[A][ ][Em][ ][F#m][ ][D]
-[A][ ][Em][ ][F#m][ ][D]
+A      Em F#m D
+Ohhhhhh
+A       Em F#m D
+So good
+A Em F#m D
+
+A Em F#m D
+
 
 
 Chorus 3:
-[G]Uh-huh,[D] it was [Em]good li[C]vin' with you
-[G]Uh-huh,[D] it was [Em]good, aw-aw-[C]aw-aw-aw
-[G]Uh-huh,[D] it was [Em]good li[C]vin' with you
-[G]Uh-huh,[D] it was [Em]good, aw-aw-[C]aw-whoa
+G      D       Em     C
+Uh-huh, it was good livin' with you
+G      D       Em          C
+Uh-huh, it was good, aw-aw-aw-aw-aw
+G      D       Em     C
+Uh-huh, it was good livin' with you
+G      D       Em          C
+Uh-huh, it was good, aw-aw-aw-whoa
 
 (garbage ending, then lone guitar)
 Aw-aw-aw-aw-whoa
 Yeah, you were so good
 Yeah, you were so good
+
 

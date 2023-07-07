@@ -1,13 +1,12 @@
 Don't You (Forget About Me)
 Simple Minds
-Key: A 
+Key: E 
 Tempo: 111 
 
 
 Intro:
-
 [D]  [E]  Hey, hey, hey, hey
-[D]  [E]  Ooooooo[E]oooo[D]oooh, 
+[D]  [E]  Ooooooo[C]oooo[D]oooh, 
 [D]oh  [E]
 [D]  [E]
 [C]  [D]
@@ -110,5 +109,3 @@ La, la, la, la, [D]la
 
 La, la, la, la, [A]la
 La, la, la, la, [D]la
-
-
