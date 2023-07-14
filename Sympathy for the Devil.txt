@@ -6,10 +6,10 @@ Tempo: 116
 
 Intro:
 (Drums only, then drums & guitar)
-[E] [D]  [A]  [E]
-[E] [D]  [A]  [E]
-[E] [D]  [A]  [E]
-[E] [D]  [A]  [E]
+[E]  [D]  [A]  [E]
+[E]  [D]  [A]  [E]
+[E]  [D]  [A]  [E]
+[E]  [D]  [A]  [E]
    
  
 Verse 1:

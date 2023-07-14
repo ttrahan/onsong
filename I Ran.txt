@@ -5,8 +5,10 @@ key: A
 
 Intro:
 (all in)
-[A]   [%]   [G]   [%]   [A]   [%]   [G]   [%]   
-[F]   [%]   [G]   [%]   [A]   [%]   [%]   [%]   
+[A]   [A]   [G]   [G]   
+[A]   [A]   [G]   [G]   
+[F]   [F]   [G]   [G]   
+[A]   [A]   [A]   [A]   
 
 
 Verse 1:
@@ -38,11 +40,11 @@ I just [F]ran, I ran all night and [G]day
 
 
 Solo 1: 
-[C]   [%]   [%]   [%]   
-[Am]   [%]   [G]   [%]   
-[Am]   [%]   [G]   [%]   
-[F]   [%]   [G]   [%]   
-[F]  [G]               
+[C]   [C]   [C]   [C]   
+[Am]   [Am]   [G]   [G]   
+[Am]   [Am]   [G]   [G]
+[F]   [F]   [G]   [G]   
+[F]  [F]   [G]
 
 
 Verse 3:
@@ -61,5 +63,8 @@ I just [F]ran, I couldn’t get a[G]way
 
 Outro/Solo 2:
  
-[F]   [%]   [G]   [%]   [F]   [%]   [G]   [%]   
-[Am]  [%]   [G]   [%]   [Am]  [%]   [G]   [%]   [A] 
+[F]   [F]   [G]   [G]   
+[F]   [F]   [G]   [G]   
+[Am]  [Am]   [G]   [G]  
+[Am]  [Am]   [G]   [G]   
+[A] 
