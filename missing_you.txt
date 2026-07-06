@@ -1,100 +1,81 @@
 Missing You
 John Waite
-Key: B
-Tempo: 209 
+Key: F# 
+Tempo: 103
 
 
 Intro:
-[E]    [Asus2]   [Bsus4]   x2
+[F#] [F#] [Bsus2] [C#sus4] 
+[F#] [F#] [Bsus2] 
+[C#sus4]      
  
 Verse 1:
-[E]                            [Asus2]                    [Bsus4]
-Every time I think of you, I always catch my breath
-              [E]
-And I'm still standing here, and you're miles away
-        [Asus2]                 [Bsus4]
-And I'm wonderin' why you left
-              [C#m7]
-And there's a storm that's raging 
-           [Asus2]                [Bsus4]
-through my frozen heart tonight
- 
-            [E]                               [Asus2]                [Bsus4]
-I hear your name in certain circles, and it always makes me smile
-           [E]                                 [Asus2]                 [Bsus4]
-I spend my time thinkin' about you, and it's almost driving me wild
-              [C#m7]                            [Asus2]                      [Bsus4]
-And there's a heart that's breaking down this long distance line tonight
- 
+[F#]Every time I think of you
+I [Bsus2]always catch my breath
+[C#sus4]   And I'm still [F#]standing here
+And you're miles away
+And I'm [Bsus2]wonderin' why you left[C#sus4]      
+And there's a [D#m7]storm that's raging
+Through my[Bsus2]     frozen heart to nig[C#sus4]ht     
+
+
+Verse 2:
+[F#]  I hear your name in certain circles
+And it [Bsus2]always makes me Smi[C#sus4]le    
+[F#]  I spend my time thinkin' about you
+And it's [Bsus2]almost driving me wild[C#sus4]      
+And there's a [D#m7]heart that's breaking[D#m7]    
+Down this [Bsus2]long distance line to[C#sus4]night 
+
  
 Chorus 1:
-                        [E]                                   [Asus2]    [Bsus4]
-I ain't missing you at all (missing you), since you've been gone away
-                   [E]                          [Asus2]          [Bsus4]
-I ain't missing you, (missing you)  no matter   what I might say
+[F#]I ain't missing you at all 
+Since you've been[Bsus2] gone a way [C#sus4]      
+[F#]I ain't missing you
+No matt[Bsus2]er what I might s[C#sus4]ay    
  
  
-Verse 2:
-          [E]                                [Asus2]                      [Bsus4]
-There's a message in the wire, and I'm sending you this signal tonight
-          [E]
-You don't know how desperate I've become
-       [Asus2]                           [Bsus4]
-And it looks like I'm losing this fight
-        [E]                                   [Asus2]                    [Bsus4]
-In your world I have no meaning, though I'm trying hard to understand
-[C#m7]                                [Asus2]                           [Bsus4]
-  And it's my heart that's breaking down this long distance line tonight
- 
- 
+Verse 3:
+[F#]There's a message in the wire
+And I'm sending[Bsus2] you this signal toni[C#sus4]ght    
+[F#]You don't know how desperate I've become
+And it [Bsus2]looks like I'm losing this [C#sus4]fight 
+[F#]In your world I have no meaning
+Though I'm[Bsus2]     trying hard to Understand[C#sus4]      
+[D#m7]    And it's my heart that's breaking
+Down[Bsus2]     this long distance line to[C#sus4]night 
+                       
 Chorus 2:
-                        [E]                                  [Asus2]    [Bsus4]
-I ain't missing you at all (missing you) since you've been gone away
-                    [E]                        [Asus2]              [Bsus4]
-I ain't missing you, (missing you) no matter    what my friends say
+[F#]I ain't missing you at all
+Since you've [Bsus2]been gone away[C#sus4]      
+[F#]I ain't missing you
+ No matter[Bsus2] what my friends [C#sus4]say   
  
  
 Bridge:
-[C#m7]
-     And there's a message that I'm sending out,
-     [Asus2]               [Bsus4]
-Like a telegraph to your soul
-[F#]
-   And if I can't bridge this distance,
-         [Asus2]               [Bsus4]
-Stop this    heartbreak overload
- 
- 
-Chorus 3:
-                        [E]                                   [Asus2]    [Bsus4]
-I ain't missing you at all, (missing you) since you've been gone away
-                     [E]                         [Asus2]              [Bsus4]
-I ain't missing you,   (missing you) no matter    what my friends say
-        [E]                                 [Asus2]          [Bsus4]
-I ain't missing you, I ain't missing you...        I can lie to myself
- 
-[C#m7]                                            [Asus2]          [Bsus4]
-  And there's a storm that's raging through my frozen heart tonight
-                       [E]                                    [Asus2]    [Bsus4]
-I ain't missing you at all, (missing you) since you've been gone away
-                    [E]                       [Asus2]            [Bsus4]
-I ain't missing you, (missing you) no matter what my friends say
- 
- 
+[D#m7]    And theres a message that Im sending out
+[Bsus2]Like a telegraph to your [C#sus4]soul  
+[G#sus4]    And if I can't bridge this distance
+Stop this [Bsus2]heartbreak over[C#sus4]load  
+
+Chorus 3: 
+[F#]I ain't missing you at all 
+  Since you've be[Bsus2]en gone away [C#sus4]      
+[F#]I ain't missing you
+No matte[Bsus2]r what my friends sa[C#sus4]y          
+
 Outro:
-              [E]
-Ain't missing you, (missing you) I ain't missing you
-[Asus2]                  [Bsus4]
-  I ain't missing you,  I can lie to myself
-[E]
-  Ain't missing you, I ain't missing you
-[Asus2]                [Bsus4]
-I ain't missing you,   I ain't missing you
-[E]
-I ain't missing you, I ain't missing you
-[Asus2]                [Bsus4]
-  ain't missing you,    oh no
-[E]
-   (missing you, missing you)
-   [Asus2]                             [Bsus4]                   [E]
-No matter what my friends might say, I ain't missing you...
+[F#]I ain't missing you
+I ain't missing you
+[Bsus2]I keep lying[C#sus4] to myself
+And there's a [D#m7]storm that's raging
+Through my[Bsus2]     frozen heart to nig[C#sus4]ht     
+[F#]I ain't missing you at all 
+  Since you've be[Bsus2.]en gone away [C#sus4]      
+[F#]I ain't missing you
+No matte[Bsus2]r what my friends sa[C#sus4]y          
+
+[F#]I ain't missing you
+I ain't missing you
+ 
+(Fade Out)
